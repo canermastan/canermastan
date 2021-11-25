@@ -12,4 +12,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=canermastan&show_icons=true&locale=en&layout=compact" alt="canermastan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canermastan&show_icons=true&locale=en" alt="canermastan" /></p>
