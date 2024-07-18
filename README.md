@@ -19,5 +19,4 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=canermastan&show_icons=true&locale=en&layout=compact" alt="canermastan" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canermastan&layout=pie)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canermastan&layout=donut)]
