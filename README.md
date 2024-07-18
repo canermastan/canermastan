@@ -20,12 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=canermastan&show_icons=true&locale=en&layout=compact" alt="canermastan" /></p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=canermastan&" alt="canermastan" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=canermastan&theme=onedark" alt="canermastan" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canermastan&layout=pie)]
