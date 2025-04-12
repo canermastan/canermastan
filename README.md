@@ -1,16 +1,56 @@
-# 💫 About Me:
-💻 **Backend Developer**  <br>🛠️ Passionate about **Java** & **Go**  <br>🚀 Exploring new technologies and loving to code.  <br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Caner%20Mastan&fontSize=80&animation=fadeIn" />
+</div>
 
+<h3 align="center">Backend Developer | Spring Boot | PHP</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/caner-mastan) 
+<p align="center">
+  <a href="https://linkedin.com/in/caner-mastan"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=canermastan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=canermastan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=canermastan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 👨‍💻 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Role:** Backend Developer  
+**Focus:** Building robust APIs and services  
+**Current Stack:** Spring Boot, PHP, PostgreSQL  
+**Approach:** Technology-agnostic problem solver  
+**Philosophy:** Clean code over trendy frameworks  
+
+### 🛠️ Tech Stack
+
+**Primary Languages & Frameworks:**  
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+**Tools & Technologies:**  
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### 🔭 What I'm Focused On
+
+- **Backend Excellence**: Crafting maintainable Spring Boot & PHP services with clean architecture
+- **Problem-Solving Mindset**: Selecting technologies based on project needs, not just trends
+- **Continuous Growth**: Deepening my expertise in API design, performance optimization, and system resilience
+- **Practical Learning**: Exploring new technologies through hands-on experimentation
+
+### 🤝 Let's Connect!
+
+<p align="center">
+  <a href="mailto:jcanermastan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/caner-mastan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
